@@ -9,9 +9,7 @@
   "author": "Bradley Jester",
   "license": "ISC",
   "dependencies": {
-    "slugify": "^1.6.5"
-  },
-  "devDependencies": {
+    "slugify": "^1.6.5",
     "nodemon": "^2.0.20"
   },
   "engines": {
